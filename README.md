@@ -1,4 +1,4 @@
-# Language Analysis Apps
+# NLP Readability
 
 These scripts analyze text files using a number of methods. Metrics that are used include simple averages of syllables and words, readability metrics, determining common words, and finding synonyms for complex words. These scripts are compatible with .txt files and .docx files, but .txt files are preferred in order to minimize error in calculating metrics due to different .docx formatting. Please note that unusual formatting in documents (tables, columns, etc) may cause errors and that there is no one size fits all preprocessing method. Therefore, for absolute best performance and accuracy, create a corpus of preprocessed text before running analysis.
 
