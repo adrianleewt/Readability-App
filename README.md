@@ -16,7 +16,6 @@ Ensure python is properly installed. If not, see: https://docs.anaconda.com/anac
 Clone to a local repository. Use the package manager [pipenv](https://docs.pipenv.org/en/latest/install/#installing-pipenv) to install the dependencies. To install these packages in a virtual environment, do the following in the Command Prompt:
 
 ```bash
-cd Bowtie-Language-Analysis
 pipenv install
 ```
 
@@ -28,7 +27,7 @@ Command Prompt Usage:
 1. Place all .txt or .docx files you wish to analyze in the folder named 'input'.
 2. Navigate to the parent directory with the cd command.
 ```
-cd Bowtie-Language-Analysis
+cd <<Name of Parent Directory here>>
 ```
 3. Run any of the three apps on the command line with pipenv. You should enter something like:
 ```
